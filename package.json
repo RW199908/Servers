@@ -1,0 +1,5 @@
+{
+  "name": "upload",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "express": "^4", "multer": "^1", "cors": "^2" }
+}
